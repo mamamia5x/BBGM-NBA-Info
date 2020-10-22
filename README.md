@@ -8,5 +8,16 @@ Go to https://play.basketball-gm.com/options and paste the contents of the teami
 * Boston Celtics
 * New York Knicks
 * Philadelphia Warriors
+* Washington Capitals
+* Toronto Huskies
+* Chicago Stags
+* St. Louis Bombers
+* Cleveland Rebels
+* Detroit Falcons
+* Pittsburgh Ironmen
+* Baltimore Bullets
+* Rochester Royals
+* Minneapolis Lakers
+* Fort Wayne Pistons
 
 No players yet.
