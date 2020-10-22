@@ -2,24 +2,36 @@
   "PRO": {
     "abbrev": "PRO",
     "colors": [
-      "#1c73bb",
-      "#ffd600",
-      "#0c5983"
+      "#cc2a28",
+      "#eacdaa",
+      "#27130c"
     ],
-    "imgURL": "/img/logos/LV.png",
-    "name": "Blue Chips",
+    "imgURL": "https://content.sportslogos.net/logos/6/1122/full/5041.gif",
+    "name": "Steam Rollers",
     "pop": 0.2,
     "region": "Providence"
   },
   "BOS": {
     "abbrev": "BOS",
     "colors": [
-      "#0d435e",
-      "#f0494a",
-      "#cccccc"
+      "#076f32",
+      "#ffffff",
+      "#c96d23"
     ],
-    "imgURL": "/img/logos/BOS.png",
-    "name": "Massacre",
+    "imgURL": "https://content.sportslogos.net/logos/6/213/full/5862.gif",
+    "seasons":{
+      "1951": { "imgURL": "https://content.sportslogos.net/logos/6/213/full/5863.gif", "colors": [
+        "#278557",
+        "#ffffff",
+        "#000000"
+        ]},
+      "1961": { "imgURL": "https://content.sportslogos.net/logos/6/213/full/5864.gif", "colors": [
+        "#278557",
+        "#ffffff",
+        "#000000"
+        ]}
+    },
+    "name": "Celtics",
     "pop": 7.3,
     "region": "Boston"
   },
