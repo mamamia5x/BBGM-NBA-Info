@@ -23,3 +23,13 @@ If there are any errors (like a missing photo for a player or team, wrong photo,
 * Rochester Royals
 * Minneapolis Lakers
 * Fort Wayne Pistons
+* Indianapolis Jets
+* Indianapolis Olympians
+* Syracuse Nationals
+* Tri-Cities Blackhawks
+* Anderson Packers
+* Sheboygan Redskins
+* Waterloo Hawks
+* Denver Nuggets
+* Milwaukee Hawks
+* St. Louis Hawks
