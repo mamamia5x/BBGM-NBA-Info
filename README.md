@@ -33,3 +33,8 @@ If there are any errors (like a missing photo for a player or team, wrong photo,
 * Denver Nuggets
 * Milwaukee Hawks
 * St. Louis Hawks
+* Detroit Pistons
+* Cincinnati Royals
+* Los Angeles Lakers
+* Chicago Packers
+* San Francisco Warriors
