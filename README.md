@@ -38,3 +38,8 @@ If there are any errors (like a missing photo for a player or team, wrong photo,
 * Los Angeles Lakers
 * Chicago Packers
 * San Francisco Warriors
+* Chicago Zephrys
+* Baltimore Bullets
+* Philadelphia 76ers
+* Chicago Bulls
+* Seattle Supersonics
