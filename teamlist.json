@@ -384,7 +384,7 @@
     "region": "Denver"
   },
   "MLH": {
-    "abbrev": "MLG",
+    "abbrev": "MLH",
     "colors": [
       "#0c66cc",
       "#ffffff",
@@ -692,9 +692,9 @@
   "MIL": {
     "abbrev": "MIL",
     "colors": [
-      "#000000",
-      "#cccccc",
-      "#ffffff"
+      "#006400",
+      "#ffffff",
+      "#ff0000"
     ],
     "imgURL": "https://content.sportslogos.net/logos/6/225/full/5318.gif",
     "name": "Bucks",
